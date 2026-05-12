@@ -14,6 +14,7 @@
 |  | 8  |  Geographical data | [Bicing data](https://opendata-ajuntament.barcelona.cat/data/en/dataset/bicing) / [Starbucks data](https://www.kaggle.com/datasets/starbucks/store-locations) |
 |  | 9  |  Networks | [Enron](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset) / [Reviews](https://snap.stanford.edu/data/com-Amazon.html) |
 |  | 10  | Conclusion, presentations and feedback |   |
+
 (cheatsheets: [np](https://media.datacamp.com/legacy/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf), [pd1] / [pandas](https://media.datacamp.com/legacy/image/upload/v1676302204/Marketing/Blog/Pandas_Cheat_Sheet.pdf), [pd2] /
 [data](https://media.datacamp.com/legacy/image/upload/v1676302827/Marketing/Blog/Data_Wrangling_Cheat_Sheet.pdf), [pd3]) 
 
