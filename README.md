@@ -6,8 +6,8 @@
 
 | Done? | Session  |  Topic |  Relevant Pages |
 |---|---|---|---|
-|  | 1-2  |  Introduction to Data Science, Numpy and Pandas <!-- https://docs.google.com/presentation/d/1zTyDEWQCoNUeVZOm9FEEUZ3YlZPPgC0cDDT8_HuMPLE/edit?usp=sharing --> | [Review Python](/notebooks/000-Introduction-to-Python.ipynb)  |
-|  | 3-4  | Numpy  and Pandas  | [Numpy](/notebooks/010-Numpy.ipynb) /  <!-- [Introduction to Pandas](https://docs.google.com/presentation/d/1wlousJQTHXFtfZN4XJ8_o0UoDSvFvoaygw9qmNqRjxo/edit?usp=sharing) -->   |  [Pandas](/notebooks/200-Pandas.ipynb)  )   |
+|  | 1-2  |  Introduction to Data Science, Numpy and Pandas <!--  --> | [Review Python](/notebooks/000-Introduction-to-Python.ipynb)  |
+|  | 3-4  | Numpy  and Pandas  | [Numpy](/notebooks/010-Numpy.ipynb) /  [Pandas](/notebooks/200-Pandas.ipynb)  )   |
 |  | 5-6  |   Transactional Data |   [Amazon](/notebooks/210-Amazon-Part-I-II.ipynb) (plots: [pd](https://pandas.pydata.org/docs/user_guide/visualization.html), [plt](https://matplotlib.org/stable/gallery/index.html), [sns](https://seaborn.pydata.org/examples/index.html))  |
 |  | 7  |  Times Series  |  [Time Series in Pandas](/notebooks/300-Timeseries-Modeling-in-Pandas.ipynb) |
 |  | 8  |  Text Data  |  [Airline Text Analytics](/notebooks/400-Airline-Text-Analytics.ipynb) |
@@ -19,6 +19,9 @@
 [data](https://media.datacamp.com/legacy/image/upload/v1676302827/Marketing/Blog/Data_Wrangling_Cheat_Sheet.pdf), [pd3]) 
 
 <!--
+Resources for me: 
+https://docs.google.com/presentation/d/1zTyDEWQCoNUeVZOm9FEEUZ3YlZPPgC0cDDT8_HuMPLE/edit?usp=sharing
+https://docs.google.com/presentation/d/1wlousJQTHXFtfZN4XJ8_o0UoDSvFvoaygw9qmNqRjxo/edit?usp=sharing
 Extra stuff not using: 
 [Images in Python](/notebooks/100-HowComputersSee.ipynb)
 Image Data I: How Computers See  https://docs.google.com/presentation/d/1YyINIBI0fnK1mAGxmDVaY19IwtzNz6ra8qLkPFaJZRg/edit?usp=sharing   | [Images in Python](/notebooks/100-HowComputersSee.ipynb)
@@ -34,7 +37,7 @@ What unites data scientists across industries is a shared set of core competenci
 
 The objectives of this course are: 
 -	To introduce data science for business.
--	-	To show, through examples, how data scientists use Python to analyze data. 
+-	To show, through examples, how data scientists use Python to analyze data. 
 -	To communicate data-driven insights effectively through visualization and narrative.
 
 
