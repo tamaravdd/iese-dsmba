@@ -30,7 +30,7 @@ Image Data II: Computer Vision  https://docs.google.com/presentation/d/1_mXsWwve
 -->
 
 ### Introduction
-With the rise of big data and AI, data scientists continue to play an important role in business and research. While the core methods have been developed over decades of statistical science, the field itself keeps evolving in response to shifting business needs. Today, data scientists are central to guiding how AI findings are interpreted and applied. The ability to not only analyze data but build a compelling argument around it has never been more critical, especially as coding and raw output become increasingly AI-assisted.
+With the rise of big data and AI, data scientists continue to play an important role in business and research. While the core methods have been developed over decades of statistical science, the field itself keeps evolving in response to shifting business needs. Just analyzing data is not enough. As coding and raw output become increasingly AI-assisted, the ability to build a compelling argument is even more critical. Today, data scientists are central to guiding how AI findings are interpreted and applied.
 
 What unites data scientists across industries is a shared set of core competencies: capturing, analyzing, and presenting data. This course develops those skills through a hands-on approach using Python.
 
