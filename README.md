@@ -6,9 +6,9 @@
 
 | Done? | Session  |  Topic |  Relevant Pages |
 |---|---|---|---|
-|  | 1-2  |  Introduction to Data Science, Numpy and Pandas <!--  --> | [Review Python](/notebooks/000-Introduction-to-Python.ipynb)  |
+|  | 1-2  | Data storytelling and AI-guided analysis <!--  --> | [Review Python](/notebooks/000-Introduction-to-Python.ipynb)  |
 |  | 3-4  | Numpy  and Pandas  | [Numpy](/notebooks/010-Numpy.ipynb) /  [Pandas](/notebooks/200-Pandas.ipynb)  )   |
-|  | 5-6  |   Transactional Data |   [Amazon](/notebooks/210-Amazon-Part-I-II.ipynb) (plots: [pd](https://pandas.pydata.org/docs/user_guide/visualization.html), [plt](https://matplotlib.org/stable/gallery/index.html), [sns](https://seaborn.pydata.org/examples/index.html))  |
+|  | 5-6  | Transactional Data |   [Amazon](/notebooks/210-Amazon-Part-I-II.ipynb) (plots: [pd](https://pandas.pydata.org/docs/user_guide/visualization.html), [plt](https://matplotlib.org/stable/gallery/index.html), [sns](https://seaborn.pydata.org/examples/index.html))  |
 |  | 7  |  Times Series  |  [Time Series in Pandas](/notebooks/300-Timeseries-Modeling-in-Pandas.ipynb) |
 |  | 8  |  Text Data  |  [Airline Text Analytics](/notebooks/400-Airline-Text-Analytics.ipynb) |
 |  | 9  |  Networks |   |
