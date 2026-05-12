@@ -13,7 +13,7 @@
 |  | 7  |  Text Data  |  [Airline Text Analytics](/notebooks/400-Airline-Text-Analytics.ipynb) |
 |  | 8  |  Geographical data |   |
 |  | 9  |  Networks |   |
-|  | 10  | Presentations and feedback |   |
+|  | 10  | Conclusion, presentations and feedback |   |
 
 (cheatsheets: [np](https://media.datacamp.com/legacy/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf), [pd1] / [pandas](https://media.datacamp.com/legacy/image/upload/v1676302204/Marketing/Blog/Pandas_Cheat_Sheet.pdf), [pd2] /
 [data](https://media.datacamp.com/legacy/image/upload/v1676302827/Marketing/Blog/Data_Wrangling_Cheat_Sheet.pdf), [pd3]) 
