@@ -17,8 +17,7 @@
 |  |  BONUS |  Working with Time Series  |  [Time Series in Pandas](/notebooks/300-Timeseries-Modeling-in-Pandas.ipynb) |
 
 #### Resources (cheatsheets)
-(cheatsheets: [np](https://media.datacamp.com/legacy/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf), [pd1]
-(https://media.datacamp.com/legacy/image/upload/v1676302204/Marketing/Blog/Pandas_Cheat_Sheet.pdf), [pd2]
+(cheatsheets: [np](https://media.datacamp.com/legacy/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf), [pd1] / [pandas]https://media.datacamp.com/legacy/image/upload/v1676302204/Marketing/Blog/Pandas_Cheat_Sheet.pdf), [pd2] /
 (https://media.datacamp.com/legacy/image/upload/v1676302827/Marketing/Blog/Data_Wrangling_Cheat_Sheet.pdf)
 <!--
 Extra stuff not using: 
