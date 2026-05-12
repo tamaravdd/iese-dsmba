@@ -6,8 +6,8 @@
 
 | Done? | Session  |  Topic |  Relevant Pages |
 |---|---|---|---|
-|  | 1-2  |  Introduction to Data Science <!-- https://docs.google.com/presentation/d/1zTyDEWQCoNUeVZOm9FEEUZ3YlZPPgC0cDDT8_HuMPLE/edit?usp=sharing --> | [Review Python](/notebooks/000-Introduction-to-Python.ipynb)  |
-|  | 3-4  | Numpy  and Pandas  | [Numpy](/notebooks/010-Numpy.ipynb) /  <!-- [Introduction to Pandas](https://docs.google.com/presentation/d/1wlousJQTHXFtfZN4XJ8_o0UoDSvFvoaygw9qmNqRjxo/edit?usp=sharing) -->   |  [Pandas](/notebooks/200-Pandas.ipynb) (cheatsheets: [np](https://media.datacamp.com/legacy/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf), [pd1](https://media.datacamp.com/legacy/image/upload/v1676302204/Marketing/Blog/Pandas_Cheat_Sheet.pdf), [pd2](https://media.datacamp.com/legacy/image/upload/v1676302827/Marketing/Blog/Data_Wrangling_Cheat_Sheet.pdf) )   |
+|  | 1-2  |  Introduction to Data Science, Numpy and Pandas <!-- https://docs.google.com/presentation/d/1zTyDEWQCoNUeVZOm9FEEUZ3YlZPPgC0cDDT8_HuMPLE/edit?usp=sharing --> | [Review Python](/notebooks/000-Introduction-to-Python.ipynb)  |
+|  | 3-4  | Numpy  and Pandas  | [Numpy](/notebooks/010-Numpy.ipynb) /  <!-- [Introduction to Pandas](https://docs.google.com/presentation/d/1wlousJQTHXFtfZN4XJ8_o0UoDSvFvoaygw9qmNqRjxo/edit?usp=sharing) -->   |  [Pandas](/notebooks/200-Pandas.ipynb)  )   |
 |  | 4  | |
 |  | 5-6  |   Transactional Data |   [Amazon](/notebooks/210-Amazon-Part-I-II.ipynb) (plots: [pd](https://pandas.pydata.org/docs/user_guide/visualization.html), [plt](https://matplotlib.org/stable/gallery/index.html), [sns](https://seaborn.pydata.org/examples/index.html)) |
 |  | 7-8  | The art of data visualization and storytelling
@@ -16,7 +16,10 @@
 |  | 8-10  |
 |  |  BONUS |  Working with Time Series  |  [Time Series in Pandas](/notebooks/300-Timeseries-Modeling-in-Pandas.ipynb) |
 
-
+#### Resources (cheatsheets)
+(cheatsheets: [np](https://media.datacamp.com/legacy/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf), [pd1]
+(https://media.datacamp.com/legacy/image/upload/v1676302204/Marketing/Blog/Pandas_Cheat_Sheet.pdf), [pd2]
+(https://media.datacamp.com/legacy/image/upload/v1676302827/Marketing/Blog/Data_Wrangling_Cheat_Sheet.pdf)
 <!--
 Extra stuff not using: 
 [Images in Python](/notebooks/100-HowComputersSee.ipynb)
