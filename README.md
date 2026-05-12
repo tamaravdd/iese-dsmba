@@ -7,7 +7,7 @@
 | Day | Session  |  Topic |  Relevant Pages |
 |---|---|---|---|
 | Monday | 1  | Data storytelling and AI-guided analysis |  |
-| Monday | 2  | Intro to Python: Numpy  and Pandas  |  [Review Python](/notebooks/000-Introduction-to-Python.ipynb) / [Numpy](/notebooks/010-Numpy.ipynb) /  [Pandas](/notebooks/200-Pandas.ipynb)    |
+| Monday | 2  | Intro to Python, data cleaning and validation |  [Review Python](/notebooks/000-Introduction-to-Python.ipynb) / [Numpy](/notebooks/010-Numpy.ipynb) /  [Pandas](/notebooks/200-Pandas.ipynb)    |
 | Tuesday | 3  | Transactional Data |   [Amazon](/notebooks/210-Amazon-Part-I-II.ipynb) (plots: [pd](https://pandas.pydata.org/docs/user_guide/visualization.html), [plt](https://matplotlib.org/stable/gallery/index.html), [sns](https://seaborn.pydata.org/examples/index.html))   |
 | Tuesday | 4  | Times Series Data |    [Bitcoin](/notebooks/300-Timeseries-Modeling-in-Pandas.ipynb)  |
 | Wednesday | 5  |  Scraping  |  [Reddit forums](https://www.reddit.com/dev/api/) |
@@ -38,7 +38,7 @@ What unites data scientists across industries is a shared set of core competenci
 
 The objectives of this course are: 
 -	To introduce data science for business.
--	To show, through examples, how data scientists use Python to analyze data. 
+-	To show through examples how data scientists use AI and Python to analyze data.
 -	To communicate data-driven insights effectively through visualization and narrative.
 
 ### Evaluation
