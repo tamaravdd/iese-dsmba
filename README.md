@@ -7,10 +7,10 @@
 | Done? | Session  |  Topic |  Relevant Pages |
 |---|---|---|---|
 |  | 1  | Data storytelling and AI-guided analysis |  |
-|  | 2-3  | Intro to Python: Numpy  and Pandas  |  [Review Python](/notebooks/000-Introduction-to-Python.ipynb) / [Numpy](/notebooks/010-Numpy.ipynb) /  [Pandas](/notebooks/200-Pandas.ipynb)    |
-|  | 4  |  Scraping  |  [Bitcoin](/notebooks/300-Timeseries-Modeling-in-Pandas.ipynb) |
-|  | 5  |  Text Data  |  [Airline Text Analytics](/notebooks/400-Airline-Text-Analytics.ipynb) |
-|  | 6  | Transactional Data |   [Amazon](/notebooks/210-Amazon-Part-I-II.ipynb) (plots: [pd](https://pandas.pydata.org/docs/user_guide/visualization.html), [plt](https://matplotlib.org/stable/gallery/index.html), [sns](https://seaborn.pydata.org/examples/index.html))  |
+|  | 2  | Intro to Python: Numpy  and Pandas  |  [Review Python](/notebooks/000-Introduction-to-Python.ipynb) / [Numpy](/notebooks/010-Numpy.ipynb) /  [Pandas](/notebooks/200-Pandas.ipynb)    |
+|  | 3-4  | Transactional and Times Series Data |   [Amazon](/notebooks/210-Amazon-Part-I-II.ipynb) (plots: [pd](https://pandas.pydata.org/docs/user_guide/visualization.html), [plt](https://matplotlib.org/stable/gallery/index.html), [sns](https://seaborn.pydata.org/examples/index.html))  |
+|  | 5  |  Scraping  |  [Bitcoin](/notebooks/300-Timeseries-Modeling-in-Pandas.ipynb) |
+|  | 6  |  Text Data  |  [Airline Text Analytics](/notebooks/400-Airline-Text-Analytics.ipynb) |
 |  | 7  |  Times Series  |  [Bitcoin](/notebooks/300-Timeseries-Modeling-in-Pandas.ipynb) |
 |  | 8  |  Geographical data | [Bicing data](https://opendata-ajuntament.barcelona.cat/data/en/dataset/bicing) / [Starbucks data](https://www.kaggle.com/datasets/starbucks/store-locations) |
 |  | 9  |  Networks | [Enron](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset) / [Reviews](https://snap.stanford.edu/data/com-Amazon.html) |
@@ -41,6 +41,8 @@ The objectives of this course are:
 -	To show, through examples, how data scientists use Python to analyze data. 
 -	To communicate data-driven insights effectively through visualization and narrative.
 
+### Assignments 
+Students will be evaluated based on their individual assignments, with class participation and engagement counting for up to 10% extra credit.
 
 ### Instructor
 
