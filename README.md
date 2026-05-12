@@ -41,9 +41,6 @@ The objectives of this course are:
 -	To show through examples how data scientists use AI and Python to analyze data.
 -	To communicate data-driven insights effectively through visualization and narrative.
 
-### Evaluation
-
-There will be two assignments (40% each) and an in-class individual presentation (20%), with class participation and engagement counting for up to 10% extra credit.
 
 ### Instructor
 
