@@ -8,17 +8,15 @@
 |---|---|---|---|
 |  | 1-2  |  Introduction to Data Science, Numpy and Pandas <!-- https://docs.google.com/presentation/d/1zTyDEWQCoNUeVZOm9FEEUZ3YlZPPgC0cDDT8_HuMPLE/edit?usp=sharing --> | [Review Python](/notebooks/000-Introduction-to-Python.ipynb)  |
 |  | 3-4  | Numpy  and Pandas  | [Numpy](/notebooks/010-Numpy.ipynb) /  <!-- [Introduction to Pandas](https://docs.google.com/presentation/d/1wlousJQTHXFtfZN4XJ8_o0UoDSvFvoaygw9qmNqRjxo/edit?usp=sharing) -->   |  [Pandas](/notebooks/200-Pandas.ipynb)  )   |
-|  | 4  | |
-|  | 5-6  |   Transactional Data |   [Amazon](/notebooks/210-Amazon-Part-I-II.ipynb) (plots: [pd](https://pandas.pydata.org/docs/user_guide/visualization.html), [plt](https://matplotlib.org/stable/gallery/index.html), [sns](https://seaborn.pydata.org/examples/index.html)) |
-|  | 7-8  | The art of data visualization and storytelling
-|  | 8  |  Text Data I |  [Airline Text Analytics](/notebooks/400-Airline-Text-Analytics.ipynb) |
-|  | 9  | GUEST LECTURE | | 
-|  | 8-10  |
-|  |  BONUS |  Working with Time Series  |  [Time Series in Pandas](/notebooks/300-Timeseries-Modeling-in-Pandas.ipynb) |
+|  | 5-6  |   Transactional Data |   [Amazon](/notebooks/210-Amazon-Part-I-II.ipynb) (plots: [pd](https://pandas.pydata.org/docs/user_guide/visualization.html), [plt](https://matplotlib.org/stable/gallery/index.html), [sns](https://seaborn.pydata.org/examples/index.html))  |
+|  | 7  |  Times Series  |  [Time Series in Pandas](/notebooks/300-Timeseries-Modeling-in-Pandas.ipynb) |
+|  | 8  |  Text Data  |  [Airline Text Analytics](/notebooks/400-Airline-Text-Analytics.ipynb) |
+|  | 9  |  Networks |   |
+|  | 10  |  Geographical data |   |
+|  |  BONUS | 
 
-#### Resources (cheatsheets)
 (cheatsheets: [np](https://media.datacamp.com/legacy/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf), [pd1] / [pandas](https://media.datacamp.com/legacy/image/upload/v1676302204/Marketing/Blog/Pandas_Cheat_Sheet.pdf), [pd2] /
-[data](https://media.datacamp.com/legacy/image/upload/v1676302827/Marketing/Blog/Data_Wrangling_Cheat_Sheet.pdf), [pd3]
+[data](https://media.datacamp.com/legacy/image/upload/v1676302827/Marketing/Blog/Data_Wrangling_Cheat_Sheet.pdf), [pd3]) 
 
 <!--
 Extra stuff not using: 
@@ -28,15 +26,17 @@ Image Data II: Computer Vision  https://docs.google.com/presentation/d/1_mXsWwve
 -->
 
 ### Introduction
-In today's job market, the role of "data scientist" has become increasingly prominent, blending data analysis with programming and database expertise. While the foundational techniques have existed for decades, the rise of big data, cloud computing, and artificial intelligence have accelerated the growth of data science as a field.
+With the rise of big data and AI, data scientists continue to play an important role in business and research. While the core methods have been developed over decades of statistical science, the field itself keeps evolving in response to shifting business needs. Today, data scientists are central to guiding how AI findings are interpreted and applied. The ability to not only analyze data but build a compelling argument around it has never been more critical, especially as coding and raw output become increasingly AI-assisted.
 
-Data science encompasses a wide range of roles that vary by industry, company, and job function. Though the individual skills involved—such as data analysis and programming—aren’t new, what sets data science apart is the integration of these competencies into a unified discipline.
-
-At its core, data science involves gathering, analyzing, and interpreting data, alongside creating data-driven solutions using machine learning algorithms. This course will focus on the essential skills of data capture and analysis. For further exploration, the Data Visualization (DATAVIZ) course will cover data presentation, while the Machine Learning (ML) course delves into the development of predictive models and data products.
+What unites data scientists across industries is a shared set of core competencies: capturing, analyzing, and presenting data. This course develops those skills through a hands-on approach using Python.
 
 ### Objectives
 
-The objectives of this course are (i) to introduce data science, and (ii) to show, through examples, how data scientists use Python to deliver value to the business.
+The objectives of this course are: 
+-	To introduce data science for business.
+-	-	To show, through examples, how data scientists use Python to analyze data. 
+-	To communicate data-driven insights effectively through visualization and narrative.
+
 
 ### Instructor
 
