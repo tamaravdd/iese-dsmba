@@ -40,8 +40,6 @@ The objectives of this course are:
 -	To show, through examples, how data scientists use Python to analyze data. 
 -	To communicate data-driven insights effectively through visualization and narrative.
 
-### Assignments 
-Students will be evaluated based on their individual assignments, with class participation and engagement counting for up to 10% extra credit.
 
 ### Instructor
 
