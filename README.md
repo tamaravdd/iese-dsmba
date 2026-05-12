@@ -7,7 +7,8 @@
 | Done? | Session  |  Topic |  Relevant Pages |
 |---|---|---|---|
 |  | 1-2  |  Introduction to Data Science <!-- https://docs.google.com/presentation/d/1zTyDEWQCoNUeVZOm9FEEUZ3YlZPPgC0cDDT8_HuMPLE/edit?usp=sharing --> | [Review Python](/notebooks/000-Introduction-to-Python.ipynb)  |
-|  | 3  | Numpy  | [Numpy](/notebooks/010-Numpy.ipynb) / [Images in Python](/notebooks/100-HowComputersSee.ipynb) |
+|  | 3  | Numpy  | [Numpy](/notebooks/010-Numpy.ipynb) /  |
+<!--[Images in Python](/notebooks/100-HowComputersSee.ipynb)-->
 |  | 4  | Image Data I: How Computers See <!-- https://docs.google.com/presentation/d/1YyINIBI0fnK1mAGxmDVaY19IwtzNz6ra8qLkPFaJZRg/edit?usp=sharing -->  | [Images in Python](/notebooks/100-HowComputersSee.ipynb)  |
 |  | 5  | Image Data II: Computer Vision <!-- https://docs.google.com/presentation/d/1_mXsWwveUcncoCuL_0hkDvayzYThh2Cvfm15Za5t0jg/edit?usp=sharing -->  |[Computer Vision](/notebooks/110-ComputerVision.ipynb) , Haiteng Assignment (on VC) |
 |  | 6  | Introduction to Pandas  <!-- [Introduction to Pandas](https://docs.google.com/presentation/d/1wlousJQTHXFtfZN4XJ8_o0UoDSvFvoaygw9qmNqRjxo/edit?usp=sharing) -->   |  [Pandas](/notebooks/200-Pandas.ipynb) (cheatsheets: [np](https://media.datacamp.com/legacy/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf), [pd1](https://media.datacamp.com/legacy/image/upload/v1676302204/Marketing/Blog/Pandas_Cheat_Sheet.pdf), [pd2](https://media.datacamp.com/legacy/image/upload/v1676302827/Marketing/Blog/Data_Wrangling_Cheat_Sheet.pdf) ) |
