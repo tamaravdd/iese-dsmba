@@ -9,7 +9,7 @@
 |  | 1  | Data storytelling and AI-guided analysis |  |
 |  | 2  | Intro to Python: Numpy  and Pandas  |  [Review Python](/notebooks/000-Introduction-to-Python.ipynb) / [Numpy](/notebooks/010-Numpy.ipynb) /  [Pandas](/notebooks/200-Pandas.ipynb)    |
 |  | 3-4  | Transactional and Times Series Data |   [Amazon](/notebooks/210-Amazon-Part-I-II.ipynb) (plots: [pd](https://pandas.pydata.org/docs/user_guide/visualization.html), [plt](https://matplotlib.org/stable/gallery/index.html), [sns](https://seaborn.pydata.org/examples/index.html)) /  [Bitcoin](/notebooks/300-Timeseries-Modeling-in-Pandas.ipynb)  |
-|  | 5  |  Scraping  |  [Reddit Reviews] |
+|  | 5  |  Scraping  |  [Reddit forums](https://www.reddit.com/dev/api/) |
 |  | 6  |  Text Data  |  [Airline Text Analytics](/notebooks/400-Airline-Text-Analytics.ipynb) |
 |  | 7  |  Geographical data | [Bicing data](https://opendata-ajuntament.barcelona.cat/data/en/dataset/bicing) / [Starbucks data](https://www.kaggle.com/datasets/starbucks/store-locations) |
 |  | 8  |  Networks | [Enron](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset) / [Reviews](https://snap.stanford.edu/data/com-Amazon.html) |
