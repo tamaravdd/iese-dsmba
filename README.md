@@ -12,7 +12,7 @@
 |  | 6  |  Times Series  |  [Time Series in Pandas](/notebooks/300-Timeseries-Modeling-in-Pandas.ipynb) |
 |  | 7  |  Text Data  |  [Airline Text Analytics](/notebooks/400-Airline-Text-Analytics.ipynb) |
 |  | 8  |  Geographical data | [Bicing data](https://opendata-ajuntament.barcelona.cat/data/en/dataset/bicing) / [Starbucks data](https://www.kaggle.com/datasets/starbucks/store-locations) |
-|  | 9  |  Networks |   |
+|  | 9  |  Networks | [Enron](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset)  |
 |  | 10  | Conclusion, presentations and feedback |   |
 
 (cheatsheets: [np](https://media.datacamp.com/legacy/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf), [pd1] / [pandas](https://media.datacamp.com/legacy/image/upload/v1676302204/Marketing/Blog/Pandas_Cheat_Sheet.pdf), [pd2] /
