@@ -8,10 +8,10 @@
 |---|---|---|---|
 |  | 1  | Data storytelling and AI-guided analysis |  |
 |  | 2-3  | Intro to Python: Numpy  and Pandas  |  [Review Python](/notebooks/000-Introduction-to-Python.ipynb) / [Numpy](/notebooks/010-Numpy.ipynb) /  [Pandas](/notebooks/200-Pandas.ipynb)    |
-|  | 4  | Transactional Data |   [Amazon](/notebooks/210-Amazon-Part-I-II.ipynb) (plots: [pd](https://pandas.pydata.org/docs/user_guide/visualization.html), [plt](https://matplotlib.org/stable/gallery/index.html), [sns](https://seaborn.pydata.org/examples/index.html))  |
-|  | 5  |  Times Series  |  [Bitcoin](/notebooks/300-Timeseries-Modeling-in-Pandas.ipynb) |
-|  | 6  |  Scraping  |  [Bitcoin](/notebooks/300-Timeseries-Modeling-in-Pandas.ipynb) |
-|  | 7  |  Text Data  |  [Airline Text Analytics](/notebooks/400-Airline-Text-Analytics.ipynb) |
+|  | 4  |  Scraping  |  [Bitcoin](/notebooks/300-Timeseries-Modeling-in-Pandas.ipynb) |
+|  | 5  |  Text Data  |  [Airline Text Analytics](/notebooks/400-Airline-Text-Analytics.ipynb) |
+|  | 6  | Transactional Data |   [Amazon](/notebooks/210-Amazon-Part-I-II.ipynb) (plots: [pd](https://pandas.pydata.org/docs/user_guide/visualization.html), [plt](https://matplotlib.org/stable/gallery/index.html), [sns](https://seaborn.pydata.org/examples/index.html))  |
+|  | 7  |  Times Series  |  [Bitcoin](/notebooks/300-Timeseries-Modeling-in-Pandas.ipynb) |
 |  | 8  |  Geographical data | [Bicing data](https://opendata-ajuntament.barcelona.cat/data/en/dataset/bicing) / [Starbucks data](https://www.kaggle.com/datasets/starbucks/store-locations) |
 |  | 9  |  Networks | [Enron](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset) / [Reviews](https://snap.stanford.edu/data/com-Amazon.html) |
 |  | 10  | Conclusion, presentations and feedback |   |
