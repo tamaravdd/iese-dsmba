@@ -47,6 +47,6 @@ Tamara van der Does
 
 ### Repository License
 
-This course was designed inspired by materials from Prof. Enric Junqué de Fortuny and Prof. Prof. Miguel Ángel Canela. This work is licensed under a Creative Commons Attribution 4.0 International License. If you use or adapt this material, please credit the above and Tamara van der does – IESE Business School. For more details press the button below:
+This course was designed inspired by materials from Prof. Enric Junqué de Fortuny and Prof. Miguel Ángel Canela. This work is licensed under a Creative Commons Attribution 4.0 International License. If you use or adapt this material, please credit the above and Tamara van der does – IESE Business School. For more details press the button below:
 
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) ✕✓→
