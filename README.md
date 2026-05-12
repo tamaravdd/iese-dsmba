@@ -11,7 +11,7 @@
 |  | 4-5  | Transactional Data |   [Amazon](/notebooks/210-Amazon-Part-I-II.ipynb) (plots: [pd](https://pandas.pydata.org/docs/user_guide/visualization.html), [plt](https://matplotlib.org/stable/gallery/index.html), [sns](https://seaborn.pydata.org/examples/index.html))  |
 |  | 6  |  Times Series  |  [Time Series in Pandas](/notebooks/300-Timeseries-Modeling-in-Pandas.ipynb) |
 |  | 7  |  Text Data  |  [Airline Text Analytics](/notebooks/400-Airline-Text-Analytics.ipynb) |
-|  | 8  |  Geographical data | [Bicing data](https://opendata-ajuntament.barcelona.cat/data/en/dataset/bicing)  |
+|  | 8  |  Geographical data | [Bicing data](https://opendata-ajuntament.barcelona.cat/data/en/dataset/bicing) / [Starbucks data](https://www.kaggle.com/datasets/starbucks/store-locations) |
 |  | 9  |  Networks |   |
 |  | 10  | Conclusion, presentations and feedback |   |
 
