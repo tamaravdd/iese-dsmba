@@ -7,7 +7,7 @@
 | Day | Session  |  Topic |  Relevant Pages |
 |---|---|---|---|
 | Monday | 1  | Data storytelling and AI-guided analysis | [Workflow](/notebooks/01_Workflow.ipynb)  |
-| Monday | 2  | Intro to Python, data cleaning and validation | [Python and Numpy](/notebooks/02_Python.ipynb.ipynb) /     |
+| Monday | 2  | Intro to Python, data cleaning and validation | [Python and Numpy](/notebooks/02_Python.ipynb.ipynb)     |
 | Tuesday | 3  | Pandas and transactional Data |  [Pandas](/notebooks/200-Pandas.ipynb) / [Amazon](/notebooks/210-Amazon-Part-I-II.ipynb) (plots: [pd](https://pandas.pydata.org/docs/user_guide/visualization.html), [plt](https://matplotlib.org/stable/gallery/index.html), [sns](https://seaborn.pydata.org/examples/index.html))   |
 | Tuesday | 4  | Times Series Data |    [Bitcoin](/notebooks/300-Timeseries-Modeling-in-Pandas.ipynb)  |
 | Wednesday | 5  |  Scraping  |  [Reddit forums](https://www.reddit.com/dev/api/) |
