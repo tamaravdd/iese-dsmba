@@ -12,7 +12,7 @@
 | Tuesday | 4  | Times Series Data |    [Bitcoin](/notebooks/300-Timeseries-Modeling-in-Pandas.ipynb)  |
 | Wednesday | 5  |  Scraping and Merging |  [Reddit forums](https://www.reddit.com/dev/api/) |
 | Wednesday  | 6  |  Text Data  |  [Airline Text Analytics](/notebooks/400-Airline-Text-Analytics.ipynb) |
-| Thursday | 7  |  Geographical and Network data | [Starbucks data](https://www.kaggle.com/datasets/starbucks/store-locations) /  [Enron](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset) |
+| Thursday | 7  |  Geographical and Network data | [Starbucks](https://www.kaggle.com/datasets/starbucks/store-locations) /  [Enron](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset) |
 | Thursday  | 8  |  Data storytelling and visualizations |  |
 | Friday | 9-10  | Conclusion, presentations and feedback |   |
 
