@@ -12,7 +12,7 @@
 | Tuesday | 4  | Times Series Data |    [Bitcoin](/notebooks/300-Timeseries-Modeling-in-Pandas.ipynb)  |
 | Wednesday | 5  |  Scraping and Merging |  [Reddit forums](https://www.reddit.com/dev/api/) |
 | Wednesday  | 6  |  Text Data  |  [Airline Text Analytics](/notebooks/400-Airline-Text-Analytics.ipynb) |
-| Thursday | 7  |  Geographical and Network data | [Bicing data](https://opendata-ajuntament.barcelona.cat/data/en/dataset/bicing) / [Starbucks data](https://www.kaggle.com/datasets/starbucks/store-locations) /  [Enron](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset) / [Reviews](https://snap.stanford.edu/data/com-Amazon.html)|
+| Thursday | 7  |  Geographical and Network data | [Starbucks data](https://www.kaggle.com/datasets/starbucks/store-locations) /  [Enron](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset) |
 | Thursday  | 8  |  Data storytelling and visualizations |  |
 | Friday | 9-10  | Conclusion, presentations and feedback |   |
 
@@ -21,6 +21,9 @@
 
 <!--
 Resources for me: 
+extra data for assignment: 
+[Bicing data](https://opendata-ajuntament.barcelona.cat/data/en/dataset/bicing) 
+[Reviews](https://snap.stanford.edu/data/com-Amazon.html)|
 https://docs.google.com/presentation/d/1zTyDEWQCoNUeVZOm9FEEUZ3YlZPPgC0cDDT8_HuMPLE/edit?usp=sharing
 https://docs.google.com/presentation/d/1wlousJQTHXFtfZN4XJ8_o0UoDSvFvoaygw9qmNqRjxo/edit?usp=sharing
 Extra stuff not using: 
