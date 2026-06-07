@@ -46,7 +46,7 @@ The objectives of this course are:
 
 ### Evaluation 
 The course grade will be determined as of IESE policies. It will be calculated as follows:
-- [Assignment #1](/notebooks/01_Workflow.ipynb): 40% 
+- [Assignment #1](/assignments/IEASE_datamba_2026_A1.pdf): 40% 
 - Assignment #2: 40%
 - Individual oral presentation: 20% 
 
