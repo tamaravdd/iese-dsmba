@@ -44,6 +44,11 @@ The objectives of this course are:
 -	To show through examples how data scientists use AI and Python to analyze data.
 -	To communicate data-driven insights effectively through visualization and narrative.
 
+### Evaluation 
+The course grade will be determined as of IESE policies. It will be calculated as follows:
+- [Assignment #1](/notebooks/01_Workflow.ipynb): 40% 
+- Assignment #2: 40%
+- Individual oral presentation: 20% 
 
 ### Instructor
 
