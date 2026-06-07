@@ -21,6 +21,8 @@
 
 <!--
 Resources for me: 
+Slides 1: https://docs.google.com/presentation/d/1u-0hoTxSbP0Ty01iRNeiVHDdvBcDkTz8z0EbI20pmeI/edit?usp=sharing
+Slides 2: https://docs.google.com/presentation/d/12LdpTHcsbvY2A8IHMiE3ICQjBdbjIwh3lrNWF8u0Sig/edit?usp=sharing
 extra data for assignment: 
 [Bicing data](https://opendata-ajuntament.barcelona.cat/data/en/dataset/bicing) 
 [Reviews](https://snap.stanford.edu/data/com-Amazon.html)|
