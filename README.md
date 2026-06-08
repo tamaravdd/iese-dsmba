@@ -7,7 +7,7 @@
 | Day | Session  |  Topic |  Relevant Pages |
 |---|---|---|---|
 | Monday | 1  | Intro: Data analysis in an AI world | [Questions and Workflow](/notebooks/01_Workflow.ipynb)  |
-| Monday | 2  | Intro to Python, data cleaning and validation | [Python and Numpy](/notebooks/02_Python_NumPy.ipynb)     |
+| Monday | 2  | Intro to Python and AI validation | [Python and Numpy](/notebooks/02_Python_NumPy.ipynb)     |
 | Tuesday | 3  | Pandas and transactional Data |  [Pandas and Amazon](/notebooks/03_Pandas_Amazon.ipynb) (plots help: [pd](https://pandas.pydata.org/docs/user_guide/visualization.html), [plt](https://matplotlib.org/stable/gallery/index.html), [sns](https://seaborn.pydata.org/examples/index.html))   |
 | Tuesday | 4  | Times Series Data |    [Bitcoin]  |
 | Wednesday | 5  |  Scraping and Merging |  [Reddit forums](https://www.reddit.com/dev/api/) |
