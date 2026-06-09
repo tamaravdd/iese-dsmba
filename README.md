@@ -9,8 +9,7 @@
 | Monday | 1  | Intro: Data analysis in an AI world | [Questions and Workflow](/notebooks/01_Workflow.ipynb)  |
 | Monday | 2  | Intro to Python and AI validation | [Python and Numpy](/notebooks/02_Python_NumPy.ipynb)     |
 | Tuesday | 3-4  | Pandas and transactional Data |  [Pandas and Amazon](/notebooks/03_Pandas_Amazon.ipynb) (plots help: [pd](https://pandas.pydata.org/docs/user_guide/visualization.html), [plt](https://matplotlib.org/stable/gallery/index.html), [sns](https://seaborn.pydata.org/examples/index.html))   |
-| Wednesday | 5  |  Scraping and Merging |  [Reddit forums](https://www.reddit.com/dev/api/) |
-| Wednesday  | 6  |  Text Data  |  [Airline Text Analytics] |
+| Wednesday | 5-6  |  Text Data and Merging | [Airline Text Analytics] |
 | Thursday | 7  |  Geographical and Network data | [Starbucks](https://www.kaggle.com/datasets/starbucks/store-locations) /  [Enron](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset) |
 | Thursday  | 8  |  Data storytelling and visualizations |  |
 | Friday | 9-10  | Conclusion, presentations and feedback |   |
