@@ -16,8 +16,7 @@
 | Friday | 9-10  | Conclusion, presentations and feedback |   |
 
 (cheatsheets: [np](https://media.datacamp.com/legacy/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf), [pd1] / [pandas](https://media.datacamp.com/legacy/image/upload/v1676302204/Marketing/Blog/Pandas_Cheat_Sheet.pdf), [pd2] /
-[data](https://media.datacamp.com/legacy/image/upload/v1676302827/Marketing/Blog/Data_Wrangling_Cheat_Sheet.pdf), [pd3]) 
- (plots help: [pd](https://pandas.pydata.org/docs/user_guide/visualization.html), [plt](https://matplotlib.org/stable/gallery/index.html), [sns](https://seaborn.pydata.org/examples/index.html))
+[data](https://media.datacamp.com/legacy/image/upload/v1676302827/Marketing/Blog/Data_Wrangling_Cheat_Sheet.pdf), [pd3]) / plots help: [pd](https://pandas.pydata.org/docs/user_guide/visualization.html), [plt](https://matplotlib.org/stable/gallery/index.html), [sns](https://seaborn.pydata.org/examples/index.html))
 <!--
 Resources for me: 
 Slides 1: https://docs.google.com/presentation/d/1u-0hoTxSbP0Ty01iRNeiVHDdvBcDkTz8z0EbI20pmeI/edit?usp=sharing
