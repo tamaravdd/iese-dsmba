@@ -8,7 +8,7 @@
 |---|---|---|---|
 | Monday | 1  | Intro: Data analysis in an AI world | [Questions and Workflow](/notebooks/01_Workflow.ipynb)  |
 | Monday | 2  | Intro to Python and AI validation | [Python and Numpy](/notebooks/02_Python_NumPy.ipynb)     |
-| Tuesday | 3-4  | Pandas and transactional Data |  [Amazon India](/notebooks/03_Pandas_Amazon.ipynb) (plots help: [pd](https://pandas.pydata.org/docs/user_guide/visualization.html), [plt](https://matplotlib.org/stable/gallery/index.html), [sns](https://seaborn.pydata.org/examples/index.html))   |
+| Tuesday | 3-4  | Pandas and transactional Data |  [Amazon India](/notebooks/03_Pandas_Amazon.ipynb)   |
 | Wednesday | 5  |  Text Analytics | [Airline Reviews](/notebooks/05_Airline_TextAnalytics.ipynb) |
 | Wednesday | 6  |  Time Series and Merging | [Bitcoin](/notebooks/06_Merging_Timeseries.ipynb) |
 | Thursday | 7  |  Geographical and Network data | [Starbucks](https://www.kaggle.com/datasets/starbucks/store-locations) /  [Enron](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset) |
@@ -17,7 +17,7 @@
 
 (cheatsheets: [np](https://media.datacamp.com/legacy/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf), [pd1] / [pandas](https://media.datacamp.com/legacy/image/upload/v1676302204/Marketing/Blog/Pandas_Cheat_Sheet.pdf), [pd2] /
 [data](https://media.datacamp.com/legacy/image/upload/v1676302827/Marketing/Blog/Data_Wrangling_Cheat_Sheet.pdf), [pd3]) 
-
+ (plots help: [pd](https://pandas.pydata.org/docs/user_guide/visualization.html), [plt](https://matplotlib.org/stable/gallery/index.html), [sns](https://seaborn.pydata.org/examples/index.html))
 <!--
 Resources for me: 
 Slides 1: https://docs.google.com/presentation/d/1u-0hoTxSbP0Ty01iRNeiVHDdvBcDkTz8z0EbI20pmeI/edit?usp=sharing
