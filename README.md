@@ -10,7 +10,7 @@
 | Monday | 2  | Intro to Python and AI validation | [Python and Numpy](/notebooks/02_Python_NumPy.ipynb)     |
 | Tuesday | 3-4  | Pandas and transactional Data |  [Amazon India](/notebooks/03_Pandas_Amazon.ipynb) (plots help: [pd](https://pandas.pydata.org/docs/user_guide/visualization.html), [plt](https://matplotlib.org/stable/gallery/index.html), [sns](https://seaborn.pydata.org/examples/index.html))   |
 | Wednesday | 5  |  Text Analytics | [Airline Reviews](/notebooks/05_Airline_TextAnalytics.ipynb) |
-| Wednesday | 6  |  Time Series and Merging | [Cars and Bitcoin] |
+| Wednesday | 6  |  Time Series and Merging | [Bitcoin](/notebooks/06_Merging_Timeseries.ipynb) |
 | Thursday | 7  |  Geographical and Network data | [Starbucks](https://www.kaggle.com/datasets/starbucks/store-locations) /  [Enron](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset) |
 | Thursday  | 8  |  Data storytelling and visualizations |  |
 | Friday | 9-10  | Conclusion, presentations and feedback |   |
