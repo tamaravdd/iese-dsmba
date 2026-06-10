@@ -8,8 +8,8 @@
 |---|---|---|---|
 | Monday | 1  | Intro: Data analysis in an AI world | [Questions and Workflow](/notebooks/01_Workflow.ipynb)  |
 | Monday | 2  | Intro to Python and AI validation | [Python and Numpy](/notebooks/02_Python_NumPy.ipynb)     |
-| Tuesday | 3-4  | Pandas and transactional Data |  [Pandas and Amazon](/notebooks/03_Pandas_Amazon.ipynb) (plots help: [pd](https://pandas.pydata.org/docs/user_guide/visualization.html), [plt](https://matplotlib.org/stable/gallery/index.html), [sns](https://seaborn.pydata.org/examples/index.html))   |
-| Wednesday | 5  |  Text Analytics | [Airline Text Analytics](/notebooks/05_Airline_TextAnalytics.ipynb) |
+| Tuesday | 3-4  | Pandas and transactional Data |  [Amazon India](/notebooks/03_Pandas_Amazon.ipynb) (plots help: [pd](https://pandas.pydata.org/docs/user_guide/visualization.html), [plt](https://matplotlib.org/stable/gallery/index.html), [sns](https://seaborn.pydata.org/examples/index.html))   |
+| Wednesday | 5  |  Text Analytics | [Airline Reviews](/notebooks/05_Airline_TextAnalytics.ipynb) |
 | Wednesday | 6  |  Time Series and Merging | [Cars and Bitcoin] |
 | Thursday | 7  |  Geographical and Network data | [Starbucks](https://www.kaggle.com/datasets/starbucks/store-locations) /  [Enron](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset) |
 | Thursday  | 8  |  Data storytelling and visualizations |  |
