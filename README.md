@@ -11,7 +11,7 @@
 | Tuesday | 3-4  | Pandas and transactional Data |  [Amazon India](/notebooks/03_Pandas_Amazon.ipynb)   |
 | Wednesday | 5  |  Text Analytics | [Airline Reviews](/notebooks/05_Airline_TextAnalytics.ipynb) |
 | Wednesday | 6  |  Time Series and Merging | [Bitcoin](/notebooks/06_Merging_Timeseries.ipynb) |
-| Thursday | 7  |  Geographical and Network data | [Starbucks](https://www.kaggle.com/datasets/starbucks/store-locations) /  [Enron](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset) |
+| Thursday | 7  |  Geographical and Network data | [Starbucks and Enron](/notebooks/07_GeoNetwork.ipynb) |
 | Thursday  | 8  |  Data storytelling and visualizations |  |
 | Friday | 9-10  | Conclusion, presentations and feedback |   |
 
